@@ -3,7 +3,7 @@ REST API Express JS, Sequlize with MySQL
 
 ## Read Written Complete Tutorial 
 > Part 1<br>
-https://techfickle.com/build-rest-api-using-express-js-and-sequelize-with-mysql/
+https://techfickle.com/build-rest-api-using-express-js-and-sequelize-with-mysql/<br>
 > Part 2 <br>
 https://techfickle.com/build-restful-api-crud-using-express-js-and-sequelize/
 ## Installation
